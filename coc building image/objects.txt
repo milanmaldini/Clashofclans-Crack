@@ -1,0 +1,184 @@
+1000000: Army Camp
+1000001: Town Hall
+1000002: Elixir Collector
+1000003: Elixir Storage
+1000004: Gold Mine
+1000005: Gold Storage
+1000006: Barracks
+1000007: Laboratory
+1000008: Cannon
+1000009: Archer Tower
+1000010: Wall
+1000011: Wizard Tower
+1000012: Air Defense
+1000013: Mortar
+1000014: Clan Castle
+1000015: Builders Hut
+1000016: Radio Tower (SP)
+1000017: Town Hall (SP)
+1000018: Goblin Hut (SP)
+1000019: Hidden Tesla
+1000020: Spell Factory
+1000021: X-Bow
+1000022: Barbarian King
+1000023: Dark Elixir Drill
+1000024: Dark Elixir Storage
+1000025: Archer Queen
+1000026: Dark Barracks
+1000027: Inferno Tower
+1000028: Air Sweeper
+1000029: Dark Spell Factory
+1000030: Grand Warden
+3000000: Gems
+3000001: Gold
+3000002: Elixir
+3000003: Dark Elixir
+3000004: War Gold
+3000005: War Elixir
+3000006: War Dark Elixir
+4000000: Barbarian
+4000001: Archer
+4000002: Goblin
+4000003: Giant
+4000004: Wall Breaker
+4000005: Balloon
+4000006: Wizard
+4000007: Healer
+4000008: Dragon
+4000009: P.E.K.K.A
+4000010: Minion
+4000011: Hog Rider
+4000012: Valkyrie
+4000013: Golem
+4000014: Golemite
+4000015: Witch
+4000016: Skeleton
+4000017: Lava Hound
+4000018: Lava Pup
+4000019: Skeleton Ground
+4000020: Minion
+4000021: Skeleton Air
+12000000: Bomb
+12000001: Spring Trap
+12000002: Giant Bomb
+12000003: Pumpkin Bomb
+12000004: Hidden Bomb
+12000005: Air Bomb
+12000006: Seeking Air Mine
+12000007: Santa Strike
+12000008: Skeleton Trap
+18000000: Barbarian Statue
+18000001: Torch
+18000002: Goblin Pole
+18000003: White Flag
+18000004: Skull Flag
+18000005: Pink Flowers
+18000006: Yellow Flowers
+18000007: Windmeter
+18000008: Down Arrow Flag
+18000009: Up Arrow Flag
+18000010: Skull Altar
+18000011: USA Flag
+18000012: Canada Flag
+18000013: Italia Flag
+18000014: Germany Flag
+18000015: Finland Flag
+18000016: Spain Flag
+18000017: France Flag
+18000018: GBR Flag
+18000019: Brazil Flag
+18000020: Sweden Flag
+18000021: China Flag
+18000022: Norway Flag
+18000023: Thailand Flag
+18000024: India Flag
+18000025: Australia Flag
+18000026: South Korea Flag
+18000027: Japan Flag
+18000028: Turkey Flag
+18000029: Indonesia Flag
+18000030: Netherlands Flag
+18000031: Philippines Flag
+18000032: Singapore Flag
+18000033: PEKKA Statue
+18000034: Russia Flag
+18000035: Denmark Flag
+18000036: Greece Flag
+23000000: Bigger Coffers 
+23000001: Bigger Coffers 
+23000002: Bigger Coffers 
+23000003: Get those Goblins 
+23000004: Get those Goblins 
+23000005: Get those Goblins 
+23000006: Bigger & Better 
+23000007: Bigger & Better 
+23000008: Bigger & Better 
+23000009: Nice and Tidy 
+23000010: Nice and Tidy 
+23000011: Nice and Tidy 
+23000012: Release the Beasts 
+23000013: Release the Beasts 
+23000014: Release the Beasts 
+23000015: Gold Grab 
+23000016: Gold Grab 
+23000017: Gold Grab 
+23000018: Elixir Escapade 
+23000019: Elixir Escapade 
+23000020: Elixir Escapade 
+23000021: Sweet Victory! 
+23000022: Sweet Victory! 
+23000023: Sweet Victory! 
+23000024: Empire Builder 
+23000025: Empire Builder 
+23000026: Empire Builder 
+23000027: Wall Buster 
+23000028: Wall Buster 
+23000029: Wall Buster 
+23000030: Humiliator 
+23000031: Humiliator 
+23000032: Humiliator 
+23000033: Union Buster 
+23000034: Union Buster 
+23000035: Union Buster 
+23000036: Conqueror 
+23000037: Conqueror 
+23000038: Conqueror 
+23000039: Unbreakable 
+23000040: Unbreakable 
+23000041: Unbreakable 
+23000042: Friend in Need 
+23000043: Friend in Need 
+23000044: Friend in Need 
+23000045: Mortar Mauler 
+23000046: Mortar Mauler 
+23000047: Mortar Mauler 
+23000048: Heroic Heist 
+23000049: Heroic Heist 
+23000050: Heroic Heist 
+23000051: League All-Star 
+23000052: League All-Star 
+23000053: League All-Star 
+23000054: X-Bow Exterminator 
+23000055: X-Bow Exterminator 
+23000056: X-Bow Exterminator 
+23000057: Firefighter 
+23000058: Firefighter 
+23000059: Firefighter 
+23000060: War Hero 
+23000061: War Hero 
+23000062: War Hero 
+23000063: Spoils of War 
+23000064: Spoils of War 
+23000065: Spoils of War 
+26000000: Lightning Spell
+26000001: Healing Spell
+26000002: Rage Spell
+26000003: Jump Spell
+26000004: Santas Surprise
+26000005: Freeze Spell
+26000006: Santas Surprise
+26000007: Slow
+26000008: Boost Defenses
+26000009: Poison Spell
+26000010: Earthquake Spell
+26000011: Haste Spell

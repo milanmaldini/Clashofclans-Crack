@@ -1,0 +1,9 @@
+"Name","Enabled","EnabledLowMem","DisabledDevices","PreLoading","PreLoadingLowMem","SupportedPlatforms","AllowedDomains","AllowedUrls","ForYouEnabled"
+"String","boolean","boolean","String","boolean","boolean","String","String","String","boolean"
+"Boombox",FALSE,"TRUE","win32","TRUE","FALSE","ios","clashofclans.com","https://www.youtube.com/embed/","FALSE"
+,,,,,,"android","kunlun-cdn.com","about:blank",
+,,,,,,"kunlun","googlevideo.com",,
+,,,,,,"tencent","ytimg.com",,
+,,,,,,,"doubleclick.net",,
+,,,,,,,"google.com",,
+,,,,,,,"gstatic.com",,
